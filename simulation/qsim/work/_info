@@ -1,0 +1,85 @@
+m255
+K3
+13
+cModel Technology
+Z0 dF:\Quartus II\ELE_DESIGN\simulation\qsim
+vMotorTest
+Z1 IaTeRzJk4A[J5NgU05L[Si3
+Z2 VUN0PN3KOEb5Lo]a1I[6bE3
+Z3 dF:\Quartus II\ELE_DESIGN\simulation\qsim
+Z4 w1531371228
+Z5 8ELE_DESIGN.vo
+Z6 FELE_DESIGN.vo
+L0 31
+Z7 OV;L;10.1d;51
+r1
+31
+Z8 !s90 -work|work|ELE_DESIGN.vo|
+Z9 o-work work -O0
+Z10 n@motor@test
+!i10b 1
+Z11 !s100 3gFVAA]^ED5nm3[dm3_BG1
+!s85 0
+Z12 !s108 1531371231.007000
+Z13 !s107 ELE_DESIGN.vo|
+!s101 -O0
+vMotorTest_vlg_check_tst
+!i10b 1
+!s100 zU`R[I`NOeoI`Rn=49a9n0
+IJAV]>m8RQVH4o1JV0gfUA1
+Z14 Ve9i[[P?CE5D5zKbG<I6B<2
+R3
+Z15 w1531371227
+Z16 8ELE_DESIGN.vt
+Z17 FELE_DESIGN.vt
+L0 65
+R7
+r1
+!s85 0
+31
+Z18 !s108 1531371231.367000
+Z19 !s107 ELE_DESIGN.vt|
+Z20 !s90 -work|work|ELE_DESIGN.vt|
+!s101 -O0
+R9
+Z21 n@motor@test_vlg_check_tst
+vMotorTest_vlg_sample_tst
+!i10b 1
+Z22 !s100 TUIEmK41eEVmo2Xme2TM>1
+Z23 IkL`^65c9o54d;C6;NIooR2
+Z24 Vl3NDMd@FNGL3MdCkDG`gh2
+R3
+R15
+R16
+R17
+L0 29
+R7
+r1
+!s85 0
+31
+R18
+R19
+R20
+!s101 -O0
+R9
+Z25 n@motor@test_vlg_sample_tst
+vMotorTest_vlg_vec_tst
+!i10b 1
+!s100 7g>PkjKL7MAZ6BFZGnl9G3
+I[E^5dNM6l8O`a77Kke2>h3
+Z26 VSTbPV=G;2nC>i4DXzLBX80
+R3
+R15
+R16
+R17
+L0 241
+R7
+r1
+!s85 0
+31
+R18
+R19
+R20
+!s101 -O0
+R9
+Z27 n@motor@test_vlg_vec_tst

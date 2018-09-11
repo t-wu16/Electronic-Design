@@ -1,0 +1,37 @@
+Quartus II Archive log --	F:/Quartus II/ELE_DESIGN/ELE_DESIGN.qarlog
+
+Archive:	F:/Quartus II/ELE_DESIGN/ELE_DESIGN.qar
+Date:		Wed Jul 25 20:05:50 2018
+Quartus II 64-Bit		13.0.0 Build 156 04/24/2013 SJ Full Version
+
+	=========== Files Selected: ===========
+F:/Quartus II/ELE_DESIGN/ADC.v
+F:/Quartus II/ELE_DESIGN/BlueControl.v
+F:/Quartus II/ELE_DESIGN/BlueTest.bdf
+F:/Quartus II/ELE_DESIGN/ClkDiv.v
+F:/Quartus II/ELE_DESIGN/Display.v
+F:/Quartus II/ELE_DESIGN/ELE_DESIGN.qpf
+F:/Quartus II/ELE_DESIGN/ELE_DESIGN.qsf
+F:/Quartus II/ELE_DESIGN/EnvTest.bdf
+F:/Quartus II/ELE_DESIGN/Follow.v
+F:/Quartus II/ELE_DESIGN/FollowTest.bdf
+F:/Quartus II/ELE_DESIGN/LatticeShow.v
+F:/Quartus II/ELE_DESIGN/MotorDriver.v
+F:/Quartus II/ELE_DESIGN/Servo.v
+F:/Quartus II/ELE_DESIGN/Speed.v
+F:/Quartus II/ELE_DESIGN/Transfer.v
+F:/Quartus II/ELE_DESIGN/UART_RX.v
+F:/Quartus II/ELE_DESIGN/UART_TX.v
+F:/Quartus II/ELE_DESIGN/db/ELE_DESIGN.sim.vwf
+F:/Quartus II/ELE_DESIGN/escape.v
+F:/Quartus II/ELE_DESIGN/escapetry.bdf
+F:/Quartus II/ELE_DESIGN/incremental_db/compiled_partitions/ELE_DESIGN.db_info
+F:/Quartus II/ELE_DESIGN/lcd.v
+F:/Quartus II/ELE_DESIGN/output_files/Waveform8.vwf
+F:/Quartus II/ELE_DESIGN/sonic.v
+F:/Quartus II/ELE_DESIGN/sonicshow.v
+e:/altera/13.0/quartus/bin64/assignment_defaults.qdf
+	======= Total: 26 files to archive =======
+
+	================ Status: ===============
+All files archived successfully.
